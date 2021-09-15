@@ -1,4 +1,4 @@
-![download (2)](https://user-images.githubusercontent.com/66766682/133457278-db899b4d-baaa-42e2-8681-3ac831ea43c1.png)
+
 # C Sharp
 This repository will be used to store the basic programs I use to learn C#.
 
